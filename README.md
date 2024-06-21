@@ -1,0 +1,2 @@
+# iamai
+AI course
